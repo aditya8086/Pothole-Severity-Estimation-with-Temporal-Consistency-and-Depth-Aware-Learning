@@ -1,0 +1,10 @@
+# Pothole segmentation dataset config (scene-based)
+
+path: ../Theme2_seg_data/data
+
+train: Train_scene2/images
+val: Test_scene2/images
+
+nc: 1
+names:
+  0: Pothole
