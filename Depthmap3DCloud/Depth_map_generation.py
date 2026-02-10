@@ -1,6 +1,5 @@
-####################
 ##### This code is used for depth map and point cloud generation
-#######################
+
 import cv2
 import torch
 import matplotlib.pyplot as plt
